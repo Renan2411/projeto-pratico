@@ -1,0 +1,12 @@
+.idea
+
+target
+*.iml
+
+node_modules
+.tmp
+app
+npm-debug.log
+package-lock.json
+
+docker-compose.yml
